@@ -1,2 +1,6 @@
 # Sudoku
- Jogo feito em Linguagem Java no segundo período na cadeira de LPOO
+ ### Universidade de Pernambuco
+ ###  Engenharia da Computação
+ ###  Linguagem de Programação Imperativa
+ ###  Linguagem C
+ ###  Michael Cavalcanti
