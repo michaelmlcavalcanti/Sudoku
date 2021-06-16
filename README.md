@@ -1,6 +1,6 @@
 # Sudoku
  ### Universidade de Pernambuco
  ###  Engenharia da Computação
- ###  Linguagem de Programação Imperativa
- ###  Linguagem C
+ ###  Linguagem de Programação Orientada a Objetos
+ ###  Linguagem Java
  ###  Michael Cavalcanti
