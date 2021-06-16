@@ -113,5 +113,6 @@ public class Main extends Application {
  * Sudoku
  *
  * @author Michael Cavalcanti
- * @author Vitor Felix version 1.0.5
+ * @author Vitor Felix 
+ * version 1.0.5
  */
